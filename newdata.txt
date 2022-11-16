@@ -1,0 +1,7 @@
+int num1 , num2 , num3 , t ; 
+num1 = 13 ; 
+num2 = 55 ; 
+num3 = 17 ; 
+t = num2 + num3 ; 
+t = t + num1 ; 
+cout<< t ; 
